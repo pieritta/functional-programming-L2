@@ -1,0 +1,1 @@
+palindrome [x] = reverse [x] == _
